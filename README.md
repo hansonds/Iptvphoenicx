@@ -7,9 +7,12 @@ The links are refreshed automatically every day.
 
 | Playlist | Link |
 |---|---|
-| TVwoF | `https://raw.githubusercontent.com/hansonds/Iptvphoenicx/main/TVwoF.m3u` |
+| TVwoF | `https://raw.githubusercontent.com/hansonds/iptvphoenicx/main/TVwoF.m3u` |
+| TVwF | `https://raw.githubusercontent.com/hansonds/iptvphoenicx/main/TVwF.m3u` |
 
 **TVwoF** groups: Malayalam, Sports, News, Movies (English), Music (Bollywood), Music (English), German News, German Movies.
+
+**TVwF**: same as TVwoF, plus Fashion.
 
 Paste the link into any IPTV player (Phoenicx TV, TiviMate, VLC, etc.).
 
