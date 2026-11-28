@@ -9,10 +9,13 @@ The links are refreshed automatically every day.
 |---|---|
 | TVwoF | `https://raw.githubusercontent.com/hansonds/iptvphoenicx/main/TVwoF.m3u` |
 | TVwF | `https://raw.githubusercontent.com/hansonds/iptvphoenicx/main/TVwF.m3u` |
+| TVSouth | `https://raw.githubusercontent.com/hansonds/iptvphoenicx/main/TVSouth.m3u` |
 
 **TVwoF** groups: Malayalam, Sports, News, Movies (English), Music (Bollywood), Music (English), German News, German Movies.
 
 **TVwF**: same as TVwoF, plus Fashion.
+
+**TVSouth** groups: Malayalam, Tamil, Music (Bollywood), Music (English), Sports, Telugu, Kannada, Hindi, Movies (English), News (English), Kids, Documentary & Lifestyle, German News, German Movies, Fashion.
 
 Paste the link into any IPTV player (Phoenicx TV, TiviMate, VLC, etc.).
 
