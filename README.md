@@ -15,7 +15,7 @@ The links are refreshed automatically every day.
 
 **TVwF**: same as TVwoF, plus Fashion.
 
-**TVSouth** groups: Malayalam, Tamil, Music (Bollywood), Music (English), Sports, Telugu, Kannada, Hindi, Movies (English), News (English), Kids, Documentary & Lifestyle, German News, German Movies, Fashion.
+**TVSouth** groups: Malayalam, Tamil, Music (Bollywood), Music (English), Sports, Telugu, Kannada, Hindi, Movies (English), News (English), Infotainment, Kids, German News, German Movies, Fashion.
 
 Paste the link into any IPTV player (Phoenicx TV, TiviMate, VLC, etc.).
 
